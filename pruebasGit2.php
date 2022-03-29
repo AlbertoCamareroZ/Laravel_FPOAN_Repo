@@ -6,5 +6,5 @@ echo '<tr>';
 echo '<tr>';
 echo '<tr>';
 echo '<tr>';
-echo '</pre>';
+
 ?>
